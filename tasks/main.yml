@@ -1,0 +1,5 @@
+---
+- name: Install Unified Remote via Homebrew Cask
+  homebrew_cask:
+    name: unified-remote
+  when: ansible_os_family == "Darwin"
