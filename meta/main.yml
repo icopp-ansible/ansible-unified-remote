@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Ian Copp
-  description: Install Unified Remote via Homebrew Cask.
+  description: Install the Unified Remote server via Homebrew Cask.
   license: MIT
   min_ansible_version: 1.2
   platforms:
