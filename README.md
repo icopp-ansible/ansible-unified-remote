@@ -1,6 +1,6 @@
 # ansible-unified-remote
 
-Install Unified Remote via Homebrew Cask.
+Install the Unified Remote server via Homebrew Cask.
 
 ## Dependencies
 
